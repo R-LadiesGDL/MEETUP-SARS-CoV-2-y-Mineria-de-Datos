@@ -1,5 +1,5 @@
 ##############
-# Inicialización
+# InicializaciÃ³n
 
 install.packages("seqinr")
 library(seqinr)
@@ -81,7 +81,7 @@ for (i in 1:tamanioSecuencias) {
 
 
 ##############
-# Revisar las mutaciones por posición
+# Revisar las mutaciones por posiciÃ³n
 
 mutacionesPorPosicion <- c()
 for (i in 1:tamanioSecuencias) {
@@ -146,7 +146,7 @@ length(filtro2)
 
 
 ##############
-# Normalización
+# NormalizaciÃ³n
 
 muestrasEstado1 <- length(filtro1)
 muestrasEstado2 <- length(filtro2)
